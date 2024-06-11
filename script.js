@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const database = {
         "example": "https://via.placeholder.com/300",
         "mills": "https://i.imgur.com/7smM2cW.png",
-        "dog": "https://via.placeholder.com/300/00FF00/FFFFFF?text=Dog"
+        "cambage": "https://i.imgur.com/vsNURhL.png"
     };
 
     const searchInput = document.getElementById('search-input');
