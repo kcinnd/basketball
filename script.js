@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const database = {
-        "example": "https://via.placeholder.com/300",
+        "james": "https://i.imgur.com/qlhmPJn.png",
         "mills": "https://i.imgur.com/7smM2cW.png",
         "cambage": "https://i.imgur.com/vsNURhL.png"
     };
