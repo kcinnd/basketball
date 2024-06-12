@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "james": "https://i.imgur.com/qlhmPJn.png",
         "mills": "https://i.imgur.com/7smM2cW.png",
         "staley": "https://i.imgur.com/BEZiyYT.png",
+        "landale": "https://i.imgur.com/KcHKt5a.png",
         "malone": "https://i.imgur.com/25TkBQZ.png",
         "cambage": "https://i.imgur.com/vsNURhL.png"
     };
