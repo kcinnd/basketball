@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const database = {
         "james": "https://i.imgur.com/qlhmPJn.png",
         "mills": "https://i.imgur.com/7smM2cW.png",
+        "staley": "https://i.imgur.com/BEZiyYT.png",
         "cambage": "https://i.imgur.com/vsNURhL.png"
     };
 
